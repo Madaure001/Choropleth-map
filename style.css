@@ -1,0 +1,17 @@
+html, body {
+    min-height: 100%;
+    background-color: gainsboro;
+}
+body{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+#tootip{
+    visibility: hidden;
+    width: auto;
+    height: auto;
+}
